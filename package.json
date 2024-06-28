@@ -1,0 +1,21 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allan",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/input": "^2.1.11",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.3.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
